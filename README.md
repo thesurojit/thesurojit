@@ -3,7 +3,7 @@ Hi👋,I'm Surojit
 </h1>                                    
 
 					     
-<h2> I'm a btech CSE 2nd year student,enthusiastic learner</h2> 
+<h2> I'm a Btech CSE 2nd year student,enthusiastic learner</h2> 
 
 
 - 🔭 I’m currently working on C,C++,Python,Android Development(cross-platform)
