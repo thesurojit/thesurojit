@@ -1,8 +1,7 @@
                                       
-
-                                             Hi 👋,I'm Surojit 
+># Hi👋,I'm Surojit
 					     
-I'm a btech CSE 2nd year student, enthusiastic learner 
+**I'm a btech CSE 2nd year student, enthusiastic learner** 
 -----------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on C,C++,Python,Android Development(cross-platform)
