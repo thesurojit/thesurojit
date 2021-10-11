@@ -1,5 +1,5 @@
-<h1 align="center">Hi:wave:,I'm Surojit</h1>   
-<h2 align="center">I'm a Btech CSE 2nd year student and enthusiast learner</h2> 
+<h1><p align="center">Hi:wave:,I'm Surojit</h1>   
+<h2> <p align="center">I'm a Btech CSE 2nd year student and enthusiast learner</h2> 
 
 <h3>About Me</h3>
 
