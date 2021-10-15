@@ -1,9 +1,9 @@
-<h3>
+<h2>
     <p align="center">Hi:wave:,I'm Surojit
-</h3> 
+</h2> 
 
 <h3> 
-    <p align="center">I'm a Btech CSE 2nd year student and enthusiast learner
+    <p align="center">I'm a Btech CSE sophomore student and enthusiast learner
 </h3> 
 
 
