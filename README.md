@@ -1,6 +1,6 @@
-<h2>
+<h1>
     <p align="center">Hi:wave:,I'm Surojit
-</h2> 
+</h1> 
 
 <h3> 
     <p align="center">I'm a Btech CSE sophomore student and enthusiast learner
