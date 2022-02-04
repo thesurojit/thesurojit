@@ -13,9 +13,9 @@
 <h4>About Me</h4>
 
 
-- 🔭 I’m currently working on **C,C++,Python,Android Development(cross-platform)**
+- 🔭 I’m currently working on **C,C++,Python,Java,Web and Android Development(cross-platform)**
 - 🌱 I’m currently learning **Python,Android Development(cross-platform)**
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Web and Android Development**
 - 💬 Ask me about **C,C++,Python,Competitive programming and Android Development**
 - ⚡ Fun fact: **I'm a musician and badminton player**
 
