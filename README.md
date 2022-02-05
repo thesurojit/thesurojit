@@ -6,10 +6,6 @@
     I'm a Btech in CSE sophomore student and enthusiast learner
 </h3> 
 
-
-
-
-
 <h4>About Me</h4>
 
 
@@ -32,6 +28,7 @@
     </a>
 </p>
 
+<h3 align ="center">Do Check Out my Blog Page <a href="https://surojitwork.blogspot.com/"> S D Creation & Innovation</a></h3>
 
 <h3>
     <p align="center">Explore Learn n Create:blue_heart:
