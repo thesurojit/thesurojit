@@ -20,7 +20,7 @@
 <h4>Github Stats:</h4>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesurojit-das&show_icons=true&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0)	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesurojit-das&layout=compact&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0 )](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesurojit-das&show_icons=true&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesurojit-das&layout=compact&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0 )](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <h4>Experience:</h4><br>
