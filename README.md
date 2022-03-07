@@ -22,8 +22,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesurojit-das&show_icons=true&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0)	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesurojit-das&layout=compact&theme=github_dark&hide_border=true&stroke=0000&background=060A0CD0 )](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
-<h4>Experience:</h4><br><br>
+<br>
+<h4>Experience:</h4><br>
 <p align="center">
     <a href="https://github.com/thesurojit-das/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesurojit-das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurojit-das&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
