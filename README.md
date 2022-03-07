@@ -1,5 +1,5 @@
 
-<h1 Style="font-family: 'Baloo Bhaijaan 2', cursive;"><br><br>
+<h1 Style="font-family: 'Baloo Bhaijaan 2', cursive;">
     <p align="center">Hi:wave:,I'm Surojit
 </h1> 
 
