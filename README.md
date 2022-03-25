@@ -2,7 +2,7 @@
 <h1 >
     <p align="center">Hi:wave:,I'm Surojit
 </h1> 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> ❄️ I'm a self-taught and passionate frontend developer</h3>
 <h3 align="center">
     I'm a Btech in CSE sophomore student and enthusiast learner
 </h3> 
