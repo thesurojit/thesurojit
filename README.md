@@ -1,3 +1,4 @@
+<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_480/https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg" />
 <h1 >
     <p align="center">Hi:wave:,I'm Surojit
 </h1> 
@@ -30,13 +31,10 @@
     <a href="https://github.com/thesurojit-das/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesurojit-das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurojit-das&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurojit-das" alt="thesurojit-das" /></a> </p>
+<br>
 
-
-
-
-
-
-<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thesurojit-das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesurojit-das/" height="30" width="40" /></a>
@@ -47,10 +45,11 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/codersurojit/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codersurojit/practice/" height="30" width="40" /></a>
 <a href="https://discord.gg/villian#3986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="villian#3986" height="30" width="40" /></a>
 </p>
-
 <br>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<br>
 <h3 align ="center">Do Check Out my Blog Page <a href="https://surojitwork.blogspot.com/"> S D Creation & Innovation</a></h3>
 
 <h3>
