@@ -4,7 +4,7 @@
 </h1> 
 <h3 align="center"> ❄️ I'm a self-taught and passionate frontend developer</h3>
 <h3 align="center">
-    I'm a Btech in CSE sophomore student and enthusiast learner
+    I'm a Btech in CSE 3rd sem student and enthusiast learner
 </h3> 
 
 <h3>About Me</h3><br>
