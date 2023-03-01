@@ -24,23 +24,23 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesurojit-das&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesurojit&show_icons=true&theme=transparent)
 
 
 
 <br>
 <h3>Experience:</h3><br>
 <p align="center">
-    <a href="https://github.com/thesurojit-das/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesurojit-das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurojit-das&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/thesurojit/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesurojit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurojit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurojit-das" alt="thesurojit-das" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurojit" alt="thesurojit" /></a> </p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thesurojit-das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesurojit-das/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thesurojit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesurojit/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009002110088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009002110088" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/surojit_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/surojit_das" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/surojit0530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/surojit0530" height="30" width="40" /></a>
